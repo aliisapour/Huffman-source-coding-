@@ -14,6 +14,7 @@ for i=1:length(p)-1
     
 end
 percentages=sort(p,'descend');
+p=percentages;
 
 sum_array=[];
 len_p=length(p);
