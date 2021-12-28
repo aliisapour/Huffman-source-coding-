@@ -75,8 +75,3 @@ code=fliplr(code)
 
 % e=e+1;
 % end
-
-
-
-
-
